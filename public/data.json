@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6334639af98e17aedc437dc3",
+      "picture": "https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/wi/art/zumba-class2-544d6dabce.jpg",
+      "name": "Zumba",
+      "time":"30 min"
+    },
+    {
+      "id": "6334639aea273d8b54806d03",
+      "picture": "https://ichef.bbci.co.uk/news/976/cpsprodpb/11AA1/production/_126635327_gettyimages-938158500.jpg",
+      "name": "Breakfast",
+      "time":"20 min"
+    },
+    {
+      "id": "6334639a694dfc47e81f43dc",
+      "picture": "https://i.pinimg.com/originals/1d/a9/44/1da944eeeea58e27db560ba9abd1948e.jpg",
+      "name": "Coding",
+      "time":"120 min"
+    },
+    {
+      "id": "6334639a9250ab8af312605e",
+      "picture": "https://img.taste.com.au/45Y4XB7k/w1200-h630-cfill/taste/2018/02/barbecued-chicken-rice-bowls-taste-135064-1.jpg",
+      "name": "Lunch",
+      "time":"30 min"
+    },
+    {
+      "id": "6334639ad3f8a8011f870706",
+      "picture": "https://img.theepochtimes.com/assets/uploads/2017/12/11/shutterstock_373605241.jpg",
+      "name": "Nap",
+      "time":"30 min"
+    },
+    {
+      "id": "6334639afa0f7d7c261560f0",
+      "picture": "https://cdn.britannica.com/42/91642-050-332E5C66/Keukenhof-Gardens-Lisse-Netherlands.jpg",
+      "name": "Gardening",
+      "time":"60 min"
+    }
+  ]

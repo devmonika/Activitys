@@ -1,0 +1,14 @@
+[
+    {
+      "question": "How does react work?",
+      "answer":"React.js is generally thought of as the view layer in an application. You might have used library like Handlebars, or jQuery in the past. Just as jQuery manipulates UI elements, or Handlebars templates are inserted onto the page, React components change what the user sees. React render the data to the UI, so we pass it to a React component which handles the job of getting the HTML into the page."
+    },
+    {
+      "question": "What are the differences between props and state?",
+      "answer":"Props are used to pass data from one component to another, Props are read-only, Props are immutable.The state is a local data storage that is local to the component only and cannot be passed to other components,State changes can be asynchronous,State is mutable."
+    },
+    {
+      "question": "Why we use useEffect?",
+      "answer":"The useEffect Hook allows you to perform side effects in your components. Some examples of side effects are: fetching data, directly updating the DOM, and timers."
+    }
+  ]
